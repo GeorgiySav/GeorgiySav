@@ -22,6 +22,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+    <a href="https://github.com/GeorgiySav/micro-tale-language-model"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgiySav&repo=micro-tale-language-model&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/GeorgiySav/Kronos"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgiySav&repo=Kronos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/GeorgiySav/OBC"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgiySav&repo=OBC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/GeorgiySav/OpenGL-Physarum"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgiySav&repo=OpenGL-Physarum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
