@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  I'm Georgiy Savchenko, a Computer Science MSci student at the University of Exeter. Whether it's building neural network libraries or crafting grandmaster level chess engines, I am constantly challenging myself with technical projects.
+  I'm Georgiy Savchenko, a first class BSc Computer Science graduate from the University of Exeter and currently studying for an MPhil in Machine Learning and Machine Intelligence at the University of Cambridge.
+  I've
 </p>
 
 <details open align="center"> 
