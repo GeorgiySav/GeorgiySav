@@ -2,7 +2,9 @@
   <a href="https://github.com/GeorgiySav">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F85D7F&width=435&lines=Georgiy+Savchenko;Machine+Learning+at+Cambridge;Computer+Science+at+Exeter;Engineer+%26+Machine+Learning" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F85D7F&width=435&lines=Georgiy+Savchenko;Machine+Learning+at+Cambridge;Computer+Science+at+Exeter;Engineer+%26+Machine+Learning" alt="Typing SVG" /></a>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
